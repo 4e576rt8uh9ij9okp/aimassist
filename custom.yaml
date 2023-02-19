@@ -1,0 +1,8 @@
+path: output
+
+train: output/train/target
+test: output/test/target
+valid: output/val/target
+
+nc: 1
+names: ["target"]
